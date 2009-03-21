@@ -1,0 +1,38 @@
+---
+title: Despre
+lang: ro
+in_menu: true
+sort_info: 3
+HeaderTitle: Obțineți o aplicație software liber pentru citire PDF!
+useERB: true
+---
+
+<h2>Despre</h2>
+
+<p>Această inițiativă a luat startul în <a href="http://fellowship.fsfe.org">Frăția</a> mișcării <a href="http://fsfeurope.org">Free Software Foundation Europe</a> (FSFE). Coordonatorii acestei mișcări sunt Hannes Hauswedell și Jan-Hendrik Peters.  Dacă aveți un mesaj pentru noi, ne puteți scrie la <a href="mailto:feedback@pdfreaders.org">această adresă</a>.</p>
+
+<p>Pentru a afla mai multe despre Software Liber și Standarde Libere, încercați legăturile de mai jos:</p>
+
+<ul id="links">
+ <li><a href="http://fellowship.fsfe.org">Frăția FSFE</a></li>
+ <li><a href="http://documentfreedom.org">Document Freedom Day</a></li>
+ <li>sau orice altă fundație software liber:</li>
+ <ul>
+   <li><a href="http://www.fsfeurope.org">Free Software Foundation Europe</a></li>
+   <li><a href="http://www.fsf.org">Free Software Foundation</a></li>
+   <li><a href="http://www.fsf.org.in">Free Software Foundation India</a></li>
+   <li><a href="http://www.fsfla.org">Free Software Foundation Latin America</a></li>
+  </ul>
+</ul>
+
+<p>Dacă doriți să dezvoltați gratuit, de o calitate cât se poate de bună, seturi complete și portabile de librării și aplicații software pentru organizarea fișierelor în format PDF și/sau pentru tehnologiile aferente formatului, vă invităm să vă <a href="http://www.gnupdf.org/Dev:Newcomers">alăturați la echipa dezvoltatorilor GNU PDF</a> sau unei echipe {link: {path: index.html, attr: {:link_text: listate pe pagina programelor de citire Software Liber}}}.</p>
+
+<h2>Despre FSFE</h2>
+<%
+# Translations of the following text can be found on http://www.fsfeurope.org/contribute/translators/wordlist.en.html for many languages
+%>
+<p>The <a href="http://www.fsfeurope.org">Free Software Foundation Europe</a> (FSFE) is a non-profit non-governmental organisation active in many European countries and involved in many global activities. Access to software determines participation in a digital society.  To secure equal participation in the information age, as well as freedom of competition, the Free Software Foundation Europe (FSFE) pursues and is dedicated to the furthering of <a href="http://www.fsfeurope.org/documents/freesoftware.en.html">Free Software</a>, defined by the freedoms to use, study, modify and copy. Founded in 2001, creating awareness for these issues, securing Free Software politically and legally, and giving people Freedom by supporting development of Free Software are central issues of the FSFE.</p>
+
+--- name:footer
+Copyright (C) <a href="http://www.fsfeurope.org">Free Software Foundation Europe</a>, Generat cu <a href="http://webgen.rubyforge.org/">Webgen</a> în {date: }. <br />
+Copierea directă și distribuirea întregului articol este permisă în orice mod, odată ce această notiță este păstrată.

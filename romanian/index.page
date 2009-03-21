@@ -1,0 +1,79 @@
+---
+title: Programe pentru citire
+lang: ro
+in_menu: true
+sort_info: 1
+HeaderTitle: Obțineți o aplicație Software Liber pentru citire PDF!
+---
+
+<h2>Obțineți o aplicație liberă pentru citire PDF!</h2>
+
+<p>Portable Document Format (PDF) este un format popular pentru publicarea documentelor și a textelor formatate. Acesta există în mai multe versiuni, unele calificându-se drept <a href="http://www.fsfeurope.org/projects/os/def.ro.html">standarde deschise</a>, unele certificate <a href="http://www.iso.org">ISO</a> și unele protejate de <a href="http://fsfeurope.org/projects/swpat/background.ro.html">patente software</a>. Probabil că ați dori să promovați versiunile ce susțin standardele libere, pentru că acestea garantează interoperabilitatea, concurența și oferă libera alegere. <a href="http://www.fsfeurope.org/projects/os/os.ro.html">Continuați lectura...</a></p>
+
+<p>Există mai multe programe pentru citirea documentelor PDF. Lista prezentată mai jos este neutră din punct de vedere a ofertantului. Toate sunt <a href="http://www.fsfeurope.org/documents/freesoftware.ro.html">Software Liber</a>, cu respect pentru cele patru drepturi libere de a folosi, de a studia, de a împărtăși și a îmbunătăți. Aceste lucruri vă permit controlul asupra calculatorului personal și asupra intimității. <a href="http://www.fsfeurope.org/documents/freesoftware.ro.html">Continuați lectura...</a></p>
+
+<table id="readers-table"><tbody><tr>  
+	<th>&nbsp;</th>
+  	<th>Windows </th>
+  	<th>MacOSX </th>
+  	<th>Sisteme de operare libere <a class="footnote-link" href="#fn1">[1]</a></th>
+</tr>
+<tr>  
+	<td><a href="http://www.gnome.org/projects/evince/">Evince</a></td>
+  	<td> - </td>
+  	<td> - </td>
+  	<td><a href="http://live.gnome.org/Evince/Downloads">Descărcați</a></td>
+</tr>
+<tr>  	<td><a href="http://kpdf.kde.org">KPDF</a> </td>
+  	<td> - </td>
+  	<td> - </td>
+  	<td><a href="http://kpdf.kde.org/download.php">Descărcați</a></td>
+</tr>
+<tr>  
+	<td><a href="http://ccxvii.net/fitz/">MuPDF</a></td>
+  	<td><a href="http://ccxvii.net/fitz/download/">Descărcați</a></td>
+  	<td> - </td>
+  	<td> - </td>
+</tr>
+<tr>  
+	<td><a href="http://www.okular.org">Okular</a> </td>
+  	<td><a class="lighter" href="http://windows.kde.org/download.php">Descărcați</a></td>
+  	<td><a class="lighter" href="http://mac.kde.org/?id=download">Descărcați</a></td>
+  	<td><a href="http://okular.kde.org/download.php">Descărcați</a></td>
+</tr>
+<tr>  
+	<td><a href="http://skim-app.sourceforge.net/">Skim</a></td>
+  	<td> - </td>
+  	<td><a href="http://skim-app.sourceforge.net/">Descărcați</a></td>
+  	<td> - </td>
+</tr>
+<tr>  
+	<td><a href="http://blog.kowalczyk.info/software/sumatrapdf/">Sumatra PDF</a></td>
+  	<td><a href="http://blog.kowalczyk.info/software/sumatrapdf/download.html">Descărcați</a></td>
+  	<td> - </td>
+  	<td> - </td>
+</tr>
+<tr>  
+	<td><a href="http://www.foolabs.com/xpdf/">Xpdf</a></td>
+  	<td> - </td>
+  	<td> - </td>
+  	<td><a href="http://www.foolabs.com/xpdf/download.html">Descărcați</a></td>
+</tr>
+<tr>  
+	<td><a href="http://www.gnustep.it/marko/GPSText/index.html">Yap</a> </td>
+  	<td><a class="lighter" href="http://www.gnustep.it/marko/GPSText/index.html">Descărcați</a></td>
+  	<td> - </td>
+  	<td><a class="lighter" href="http://www.gnustep.it/marko/GPSText/index.html">Descărcați</a></td>
+</tr>
+
+</tbody></table>
+
+<p>Evident că există și alte alternative proprietare la cititorul Adobe PDF, însă ca și acesta, funcționalitatea lor este un secret comercial și nu respectă dreptul de care dispuneți de a deține sub control intimitatea și datele personale.</p>
+
+
+<div id="fn1" class="footnote"><i>[1]</i> Trebuie menționat faptul că majoritatea sistemelor de operare libere dețin aplicații pentru organizarea pachetelor și nu vă obligă să descărcați manual fișierele de pe pagina proiectului. Cel mai sigur veți putea găsi informații despre cum pot fi instalate aceste pachete direct pe pagina distribuitorului. Totuși paginile oferite pot fi folosite la studierea codului sursă, în urmă căruia poate veți dori să refaceți aplicația personal.
+</div>
+
+--- name:footer
+Copyright (C) <a href="http://www.fsfeurope.org">Free Software Foundation Europe</a>, Generat cu <a href="http://webgen.rubyforge.org/">Webgen</a> în {date: }. <br />
+Copierea directă și distribuirea întregului articol este permisă în orice mod, odată ce această notiță este păstrată.

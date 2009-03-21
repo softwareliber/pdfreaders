@@ -1,0 +1,44 @@
+---
+title: Promovare
+lang: ro
+in_menu: true
+sort_info: 2
+HeaderTitle: Obțineți o aplicație software liber pentru citire PDF!
+---
+
+<h2>Legătura la PDFreaders.org</h2>
+
+<p>Dacă oferiți informații în format PDF, vă îndemnăm să folosiți oricare dintre butoanele grafice de mai jos (sau nici unul) în funție de cerințele personale, pentru a crea o legătura la pdfreaders.org. Toate butoanele ce pot fi găsite pe această pagină pot fi folosite, modificate sau distribuite în orice mod și fel fără a se crea vreo obligațiune sau răspundere din partea voastră.</p>
+
+<p class="graphic-link"><img src="{relocatable: /graphics/pdfreaders-four-freedoms.png}"/><br />
+Lipiți codul de mai jos în pagina voastră pentru a folosi butonul:</p>
+<div class="htmlcode">&lt;a href=&quot;http:&#47;&#47;pdfreaders.org&#47;&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http:&#47;&#47;pdfreaders.org&#47;graphics&#47;pdfreaders-four-freedoms.png&quot; alt=&quot;pdfreaders.org&quot; width=&quot;155&quot; height=&quot;33&quot; border=&quot;0&quot; &#47;&gt;&lt;&#47;a&gt;</div>
+<p class="graphic-link">La fel pot fi descărcate sursele originale în <a href="./graphics/pdfreaders-four-freedoms.svg">format SVG</a> sau <a href="./graphics/pdfreaders-four-freedoms-2x.png">format mai mare PNG</a></p>
+<p class="graphic-link"><img src="{relocatable: /graphics/pdfreaders-free.png}"/><br />
+To use this image, paste the following code into your page:</p>
+<div class="htmlcode">&lt;a href=&quot;http:&#47;&#47;pdfreaders.org&#47;&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http:&#47;&#47;pdfreaders.org&#47;graphics&#47;pdfreaders-free.png&quot; alt=&quot;pdfreaders.org&quot; width=&quot;112&quot; height=&quot;33&quot; border=&quot;0&quot; &#47;&gt;&lt;&#47;a&gt;</div>
+<p class="graphic-link">La fel pot fi descărcate sursele originale în <a href="./graphics/pdfreaders-free.svg">format SVG</a> sau <a href="./graphics/pdfreaders-free-2x.png">format mai mare PNG</a></p>
+<p class="graphic-link"><img src="{relocatable: /graphics/pdfreaders-freedom.png}"/><br />
+To use this image, paste the following code into your page:</p>
+<div class="htmlcode">&lt;a href=&quot;http:&#47;&#47;pdfreaders.org&#47;&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http:&#47;&#47;pdfreaders.org&#47;graphics&#47;pdfreaders-freedom.png&quot; alt=&quot;pdfreaders.org&quot; width=&quot;136&quot; height=&quot;33&quot; border=&quot;0&quot; &#47;&gt;&lt;&#47;a&gt;</div>
+<p class="graphic-link">La fel pot fi descărcate sursele originale în <a href="./graphics/pdfreaders-freedom.svg">format SVG</a> sau <a href="./graphics/pdfreaders-freedom-2x.png">format mai mare PNG</a></p>
+<p class="graphic-link"><img src="{relocatable: /graphics/pdfreaders-freedom-noget.png}"/><br />
+To use this image, paste the following code into your page:</p>
+<div class="htmlcode">&lt;a href=&quot;http:&#47;&#47;pdfreaders.org&#47;&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http:&#47;&#47;pdfreaders.org&#47;graphics&#47;pdfreaders-freedom-noget.png&quot; alt=&quot;pdfreaders.org&quot; width=&quot;136&quot; height=&quot;33&quot; border=&quot;0&quot; &#47;&gt;&lt;&#47;a&gt;</div>
+<p class="graphic-link">La fel pot fi descărcate sursele originale în <a href="./graphics/pdfreaders-freedom-noget.svg">format SVG</a> sau <a href="./graphics/pdfreaders-freedom-noget-2x.png">format mai mare PNG</a></p>
+<p class="graphic-link"><img src="{relocatable: /graphics/pdfreaders-f-32px.png}"/><br />
+To use this image, paste the following code into your page:</p>
+<div class="htmlcode">&lt;a href=&quot;http:&#47;&#47;pdfreaders.org&#47;&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http:&#47;&#47;pdfreaders.org&#47;graphics&#47;pdfreaders-f-32px.png&quot; alt=&quot;pdfreaders.org&quot; width=&quot;32&quot; height=&quot;32&quot; border=&quot;0&quot; &#47;&gt;&lt;&#47;a&gt;</div>
+<p class="graphic-link">La fel pot fi descărcate sursele originale în <a href="./graphics/pdfreaders-f.svg">format SVG</a></p>
+<p class="graphic-link"><img src="{relocatable: /graphics/pdfreaders-f-22px.png}"/><br />
+To use this image, paste the following code into your page:</p>
+<div class="htmlcode">&lt;a href=&quot;http:&#47;&#47;pdfreaders.org&#47;&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http:&#47;&#47;pdfreaders.org&#47;graphics&#47;pdfreaders-f-22px.png&quot; alt=&quot;pdfreaders.org&quot; width=&quot;22&quot; height=&quot;22&quot; border=&quot;0&quot; &#47;&gt;&lt;&#47;a&gt;</div>
+<p class="graphic-link">La fel pot fi descărcate sursele originale în <a href="./graphics/pdfreaders-f.svg">format SVG</a></p>
+
+<p>Dacă vizitați pagini web ce oferă documente PDF și conțin legături de acest gen spre Adobe, ați putea anunța autorii paginilor despre existența pdfreaders.org ce poate fi folosit ca alternativă.</p>
+
+<p>Prin astfel de acțiuni contribuiți la păstrarea internet-ului deschis, gratuit și fără limite în ofertanți!</p>
+
+--- name:footer
+Copyright (C) <a href="http://www.fsfeurope.org">Free Software Foundation Europe</a>, Generat cu <a href="http://webgen.rubyforge.org/">Webgen</a> în {date: }. <br />
+Copierea directă și distribuirea întregului articol este permisă în orice mod, odată ce această notiță este păstrată.
